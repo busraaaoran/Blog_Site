@@ -1,0 +1,5 @@
+/.ebextensions
+/django_my_site
+/my_site
+/my_site.zip
+/__pycache__
